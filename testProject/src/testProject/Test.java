@@ -6,5 +6,6 @@ public class Test {
 		Aggiungo oggAgg = new Aggiungo();
 		System.out.println("Test");
 		oggiprova.prova();
+		System.out.println(oggAgg.getAggiungo());
 	}
 }
